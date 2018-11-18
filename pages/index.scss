@@ -1,0 +1,14 @@
+.home-container {
+  max-width: 720px;
+}
+
+.home-emoji-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.home-emoji-list-item {
+  font-size: 32px;
+  padding: 4px;
+}
